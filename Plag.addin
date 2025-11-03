@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+  <Assembly>Plag\Plag.dll</Assembly>
+  <FullClassName>Plag.MyTools</FullClassName>
+  <AddInId>2A4903E0-786F-48C2-9F1C-6775993C7DB0</AddInId>
+   <Name>ST</Name>
+  <VendorId>MYCO</VendorId>
+  <VendorDescription>My Company Tools</VendorDescription>
+  </AddIn>
+</RevitAddIns>
