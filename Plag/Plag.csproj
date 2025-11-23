@@ -49,6 +49,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FilterElementFace.cs" />
+    <Compile Include="FilterElement.cs" />
     <Compile Include="MyTools.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
